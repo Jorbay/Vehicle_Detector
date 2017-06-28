@@ -1,3 +1,9 @@
+This README explains the project for which the code written in Vehicle_detection-final.ipynb is written for. In summary, the project is to make software that draws bounding boxes around cars in videos taken from dashboard cams. Running all the cells one by one should load the appropriate  functions. The last cell runs the video called "project_video.mp4" in the main folder. Comments on the design and implementation of the software can be  found in the Writeup.md.
+
+      -Jorge Orbay
+
+
+
 # Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
